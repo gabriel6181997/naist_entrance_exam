@@ -7,4 +7,4 @@
 
   
 # 入試に関するTips
-- Gabutechで合格体験記を書きますので、それを書き上げ次第、こちらで記事のリンクを共有します。
+- [こちら](https://gabutech.vercel.app/blog/ff5al_eh0i4)の記事をご参照ください。
